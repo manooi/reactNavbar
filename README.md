@@ -8,3 +8,11 @@ In the project directory, you can run:
 
 ## Description
 Responsive navbar created with React!
+
+## Screenshot
+
+[1] Desktop
+![Screenshot](Desktop.png)
+
+[2] Mobile
+![Screenshot](Mobile.png)
