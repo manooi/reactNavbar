@@ -62,7 +62,6 @@
   }
 
   .nav-menu {
-
     position: absolute;
     display: flex;
     flex-direction: column;
@@ -75,7 +74,6 @@
   }
 
   .nav-menu.active {
-
     background: #6668f4;
     left: 0;
     opacity:1;
@@ -87,8 +85,9 @@
   .nav-links {
     display: table;
     text-align: center;
-    padding: 1.5rem;
+    /* padding: 1.5rem; */
     width: 100%;
+    padding: 1.5rem 0 1.5rem 0;
   }
 
   .nav-links:hover {
